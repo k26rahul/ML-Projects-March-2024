@@ -1,0 +1,10 @@
+# pip install -r requirements.txt
+
+tensorflow==2.2.0
+keras==2.4.3
+
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
