@@ -1,4 +1,4 @@
-# ML Projects - Mar '23
+# ML Projects - Mar '24
 
 Practicing ML by working on various projects. Involved in tasks such as dealing with imbalanced classification, regression using TensorFlow, and anomaly detection.
 
